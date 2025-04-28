@@ -1,4 +1,4 @@
-# StockifyManit 📦
+# Stockify CLI 📦
 
 A command-line-based Inventory Management System designed for e-commerce platforms.  
 Stockify lets users add, update, view, list, sort, and remove products with real-time inventory tracking — all managed through simple commands.
